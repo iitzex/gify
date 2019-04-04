@@ -1,0 +1,6 @@
+ENV
+screenshot
+.DS_Store
+.vscode
+.idea
+*.gif
